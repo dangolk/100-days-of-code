@@ -24,3 +24,15 @@
   1. [First Type Form](https://kirandangol.typeform.com/to/MeGjD7)
 
 #
+
+### Day 2: January 30, 2018
+
+* **Today's Progress**: 
+  1. Learned how to setup a Drupal Core CMS website (I used Drupal 7.56) on local machine and on a remote web server
+  2. Setup MySQL Server Connection for Drupal on remote server via SSH and on local machine via phpMyAdmin
+* **Thoughts:**
+  1. Working with servers is not always as easy as it is locally. I ran into some permission issues on university's servers which were very restricting. So I'm looking into investing into external hosting.
+* **Link to work:** 
+  1. [Core Drupal Launch](http://cs.ulm.edu/~dangolk/drupal-core)
+
+#
