@@ -36,3 +36,15 @@
   1. [Core Drupal Launch](http://cs.ulm.edu/~dangolk/drupal-core)
 
 #
+
+### Day 3: January 31, 2018
+
+* **Today's Progress**: 
+  1. Started using *Google Cloud Platform* for Cloud Data Storage & Web Hosting
+  2. Launched a VM instance of Debian 9 on *Google Compute Engine*, manually setup the LAMP stack on it and installed *Drupal using Drush*
+* **Thoughts:**
+  1. Turns out I could have simply deployed a Drupal instance using Google's one-click *Cloud Launcher*.
+* **Link to work:** 
+  1. [Drupal on Google Compute Engine](http://35.196.8.78/drupal-core/)
+
+#
