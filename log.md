@@ -48,3 +48,19 @@
   1. [Drupal on Google Compute Engine](http://35.196.8.78/drupal-core/)
 
 #
+
+### Day 4: February 1,2018
+
+* **Today's Progress**: 
+  1. Half-way through Lynda's *Drupal 7 Essentials Training* course
+  2. Started groundwork on building my portfolio website using Drupal 7.x
+    1.Added an *About Me* Page
+    2. Learned to embed youtube videos and public Facebook posts on a web page
+  3. Built some helpful pages for improving overall browsing experience
+* **Thoughts:**
+  1. Drupal is easily one of the most powerful CMS software out there. The deeper you go, the sweeter it gets.
+* **Link to work:** 
+  1. [ULM IT Nav](http://35.196.8.78/drupal-core/?q=ulm-it-nav)
+  2. [Portfolio - About Me](http://35.196.8.78/drupal-core/?q=about-me)
+
+#
