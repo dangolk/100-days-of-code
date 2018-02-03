@@ -64,3 +64,15 @@
   2. [Portfolio - About Me](http://35.196.8.78/drupal-core/?q=about-me)
 
 #
+
+### Day 5: February 2,2018
+
+* **Today's Progress**: 
+  1. Finishing up Lynda's *Drupal 7 Essentials Training* course
+  2. Improvement on portfolio website. Added new modules and themes (like Bootstrap 3) for Drupal 7.
+* **Thoughts:**
+  1. Not complainin, but wish I could spend more time creating / coding than learning material. 
+* **Link to work:** 
+  1. [Updated Portfolio](http://35.196.8.78/drupal-core)
+
+#
