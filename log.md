@@ -76,3 +76,15 @@
   1. [Updated Portfolio](http://35.196.8.78/drupal-core)
 
 #
+
+### Day 6: February 3,2018
+
+* **Today's Progress**: 
+  1. Completed Lynda's Drupal 7 Essentials Training course
+  2. Learned new unix-tools and improved upon terminal skills (remote SSH, scp, gcloud etc.)
+* **Thoughts:**
+  1. Word On MySQL: One does not simply migrate a database.
+* **Link to work:** 
+  1. [Portfolio](http://35.196.8.78/drupal-core)
+
+#
