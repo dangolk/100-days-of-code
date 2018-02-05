@@ -88,3 +88,15 @@
   1. [Portfolio](http://35.196.8.78/drupal-core)
 
 #
+
+### Day 7: February 4,2018
+
+* **Today's Progress**: 
+  1. Started development in Drupal 7 using devel module.
+  2. Started *Advanced Drupal 7* course on Lynda.
+* **Thoughts:**
+  1. Modules and libraries make life a whole lot easier.
+* **Link to work:** d
+  1. [Portfolio](http://35.196.8.78/drupal-core)
+
+#
