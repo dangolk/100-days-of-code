@@ -100,3 +100,16 @@
   1. [Portfolio](http://35.196.8.78/drupal-core)
 
 #
+
+### Day 8: February 5,2018
+
+* **Today's Progress**: 
+  1. Swimming through lectures and tumbling through the exercises
+  2. Started looking for jobs and positions online
+* **Thoughts:**
+  1. Hello Patience my new friend
+* **Link to work:** d
+  1. [Advanced Drupal 7 Training](https://www.lynda.com/Drupal-tutorials/Working-your-web-hosts-access-restrictions/97405/105696-4.html)
+
+#
+
