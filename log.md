@@ -96,7 +96,7 @@
   2. Started *Advanced Drupal 7* course on Lynda.
 * **Thoughts:**
   1. Modules and libraries make life a whole lot easier.
-* **Link to work:** d
+* **Link to work:** 
   1. [Portfolio](http://35.196.8.78/drupal-core)
 
 #
@@ -108,8 +108,20 @@
   2. Started looking for jobs and positions online
 * **Thoughts:**
   1. Hello Patience my new friend
-* **Link to work:** d
+* **Link to work:** 
   1. [Advanced Drupal 7 Training](https://www.lynda.com/Drupal-tutorials/Working-your-web-hosts-access-restrictions/97405/105696-4.html)
+
+#
+
+### Day 9: February 5,2018
+
+* **Today's Progress**: 
+  1. Did some research on Twitter Analytics vs Google Analytics vs Facebook Analytics
+  2. Started brushing up on Basic Data Structures & Algorithms
+* **Thoughts:**
+  1. Absolutely love twitter for its awe-maze-ING and accessible analytics.
+* **Link to work:** 
+  1. [Algorithm Brush Up] https://github.com/amilajack/reading/tree/master/Algorithms
 
 #
 
