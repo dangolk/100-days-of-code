@@ -121,7 +121,7 @@
 * **Thoughts:**
   1. Absolutely love twitter for its awe-maze-ING and accessible analytics.
 * **Link to work:** 
-  1. [Algorithm Brush Up] https://github.com/amilajack/reading/tree/master/Algorithms
+  1. [Algorithm Brush Up] (https://github.com/amilajack/reading/tree/master/Algorithms)
 
 #
 
